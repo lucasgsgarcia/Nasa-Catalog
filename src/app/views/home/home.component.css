@@ -1,0 +1,27 @@
+.example-icon {
+    flex: 1 1 auto;
+    color: black;
+  }
+
+.top-bar{
+  font-size: 1.5rem; 
+  height: 80px; 
+  background-color: transparent;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.first{
+  margin: 1rem;
+}
+
+.flex-child {
+  flex: 1;
+}  
+
+.flex-child:first-child {
+  margin-right: 20px;
+} 
+
